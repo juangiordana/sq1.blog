@@ -1,3 +1,4 @@
+# Laravel defaults.
 /node_modules
 /public/hot
 /public/storage
@@ -10,3 +11,8 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+
+# Laravel Mix build assets.
+/public/css
+/public/js
+/public/mix-manifest.json
